@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgba(37, 21, 107, 0.856);
+}
+
+h1{
+    font-size: 15rem;
+    font-family: Montserrat;
+
+}
+
+.letter{
+    transition: color 1000ms;
+}
