@@ -3,11 +3,11 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgba(105, 87, 60, 0.856);
+    background-color: rgba(64, 207, 36, 0.856);
 }
 
 h1{
-    font-size: 15rem;
+    font-size: 18rem;
     font-family: Montserrat;
 
 }
